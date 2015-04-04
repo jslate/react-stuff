@@ -1,0 +1,18 @@
+{
+  "name": "react-stuff",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jslate/react-stuff",
+  "authors": [
+    "Jonathan Slate <jonathan@slatefamily.net>"
+  ],
+  "description": "just playing with react",
+  "main": "?",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
